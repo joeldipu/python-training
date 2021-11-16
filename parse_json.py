@@ -8,7 +8,7 @@
 #q = {"question": "Henry made two stops during his 60-mile bike trip. He first stopped after 20 miles. His second stop was 15 miles before the end of the trip. How many miles did he travel between his first and second stops?", "answer": "He traveled 20 miles + 15 miles = <<20+15=35>>35 miles not counting the distance between stops.\nHenry traveled 60 miles - 35 miles = <<60-35=25>>25 miles between his first and second stop.\n#### 25"}
 #q = {"question": "Gloria is shoe shopping when she comes across a pair of boots that fit her shoe budget. However, she has to choose between the boots and two pairs of high heels that together cost five dollars less than the boots. If one pair of heels costs $33 and the other costs twice as much, how many dollars are the boots?", "answer": "The second pair of heels costs 33 * 2 = $<<33*2=66>>66.\nThe heels together cost 66 + 33 = $<<66+33=99>>99.\nThe boots cost $5 more than both pairs of heels together, so the boots cost 99 + 5 = $104.\n#### 104"}
 
-
+# change for git
 
 #print(q['question'])
 #print(q['answer'])
